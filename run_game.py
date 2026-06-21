@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""Compatibility launcher for Endless Realm II."""
-from game_core import main
-
+from autonomous_mode import main
 
 if __name__ == "__main__":
     main()
