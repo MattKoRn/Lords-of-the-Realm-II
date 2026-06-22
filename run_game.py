@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import whole_numbers
+import combat_launch
 
 
 if __name__ == "__main__":
-    whole_numbers.main()
+    combat_launch.main()
