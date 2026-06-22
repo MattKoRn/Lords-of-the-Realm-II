@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import adaptive_launch
+import grand_strategy
 
 
 if __name__ == "__main__":
-    adaptive_launch.main()
+    grand_strategy.main()
