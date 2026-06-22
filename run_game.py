@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-from dynasty_ascendant import main
+import neural_reign_launch
+
 
 if __name__ == "__main__":
-    main()
+    neural_reign_launch.main()
