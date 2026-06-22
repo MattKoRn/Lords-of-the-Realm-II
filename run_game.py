@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import imperial_mind
+import adaptive_launch
 
 
 if __name__ == "__main__":
-    imperial_mind.main()
+    adaptive_launch.main()
