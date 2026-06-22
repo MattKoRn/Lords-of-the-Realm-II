@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import neural_30s
+import sovereign_launch
 
 
 if __name__ == "__main__":
-    neural_30s.main()
+    sovereign_launch.main()
