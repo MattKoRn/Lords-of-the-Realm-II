@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import color_ui
+import whole_numbers
 
 
 if __name__ == "__main__":
-    color_ui.main()
+    whole_numbers.main()
