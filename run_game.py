@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import neural_reign_launch
+import neural_30s
 
 
 if __name__ == "__main__":
-    neural_reign_launch.main()
+    neural_30s.main()
