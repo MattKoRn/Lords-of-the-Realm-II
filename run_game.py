@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import auto_camera
+import color_ui
 
 
 if __name__ == "__main__":
-    auto_camera.main()
+    color_ui.main()
