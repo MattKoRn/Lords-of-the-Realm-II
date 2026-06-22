@@ -1,5 +1,5 @@
 @echo off
 cd /d "%~dp0"
 py -m pip install -r requirements.txt >nul 2>&1
-py sovereign_launch.py
+py run_game.py
 if errorlevel 1 pause
