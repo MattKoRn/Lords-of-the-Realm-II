@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import flicker_free
+import imperial_mind
 
 
 if __name__ == "__main__":
-    flicker_free.main()
+    imperial_mind.main()
