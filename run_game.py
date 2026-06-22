@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-import decimal_fix
-import sovereign_launch
+import auto_camera
 
 
 if __name__ == "__main__":
-    sovereign_launch.main()
+    auto_camera.main()
